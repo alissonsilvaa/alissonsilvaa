@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Sou um profissional de TI com habilidades em Office 365, Windows Server, Active Directory e suporte ao usuário interno e externo. Tenho experiência no gerenciamento de contas de usuário, configuração e manutenção de aplicativos do Office, colaboração e compartilhamento de arquivos com o SharePoint e configuração de e-mail com o Exchange Online.
+
 <!--
 **alissonsilvaa/alissonsilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
